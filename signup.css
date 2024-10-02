@@ -1,0 +1,75 @@
+#signupForm input
+{
+ display: block;
+ margin: 15px 0px;
+ font-size: 20px;
+ padding: 2%;
+  width: 80%;
+}
+#submit{
+ background-color: #fc5b35;
+}
+option {
+ font-size: 25px;
+}
+form {
+ width: 400px;
+ border: 1px solid rgb(230, 230, 230);
+ margin: 3% auto;
+ padding: 3%;
+ background: white;
+}
+/* Form related css */
+
+
+#login{
+ /* background-color: green; */
+padding-left: 10px;
+padding-right: 10px;
+ border-radius: 5px;
+ font-size: 25px;
+display: flex;
+margin: auto;
+}
+
+#submit{
+ background-color: #9C254D;
+ color: #fff;
+}
+option {
+ font-size: 25px;
+}
+
+form {
+ width: 500px;
+ border: 1px solid rgb(230, 230, 230);
+ margin: 3% auto;
+ padding: 3%;
+ background: white;
+}
+
+/* Form related css */
+
+
+#login-part{
+   display: flex;
+   gap: 20px;
+   justify-content: center;
+   align-items: center;
+ 
+}
+
+#login-btn{
+ background-color:#9C254D;
+padding: 5px 10px;
+color: white;
+ border-radius: 5px;
+ font-size: 25px;
+margin-bottom: 20px;
+/* margin-left:40px ; */
+}
+
+#al-account{
+    font-size: 20px;
+
+}
